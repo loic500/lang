@@ -1,2 +1,2 @@
 # lang
-Lang files for Bâtonnet.
+Bâtonnet's lang files.
