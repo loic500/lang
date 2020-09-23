@@ -1,2 +1,47 @@
 {
+  "events": {
+    "message": {
+      "wakingUp": "{{username}} is waking up, please wait. <:tachiSmile:705085852417785856>",
+      "cooldown": "You have `{{cooldown}}` seconds before you can repeat this command.",
+      "serverLevel": "this server doesn't have the required level to execute this command. (`Lvl.{{actualLevel}}/{{goal}}`)",
+      "insuficientPerms": "you can't execute this command, you must be `{{name}}`",
+      
+      "commands": {
+        "boostbass": {},
+        "clear": {},
+        "credit": {},
+        "help": {},
+        "info": {},
+        "invite": {},
+        "join": {},
+        "leaderboard": {},
+        "leave": {},
+        "moveto": {},
+        "nowplaying": {},
+        "pause": {},
+        "ping": {},
+        "play": {},
+        "playnow": {},
+        "rank": {},
+        "queue": {},
+        "remove": {},
+        "repeat": {},
+        "replay": {},
+        "resume": {},
+        "seek": {},
+        "server-rank": {},
+        "settings": {},
+        "shard-infos": {},
+        "shuffle": {},
+        "skip": {},
+        "skipto": {},
+        "support": {},
+        "time": {},
+        "volume": {}
+      }
+    },
+    "guildCreate": {
+      "dm": "Hi ! <:remVV:705085852124053646>\nThanks for adding me to **{{guildName}}**! The bot is not done, there is a lot of features that are probably bugged. If you see any bugs, you can join the support server (https://discord.gg/VGA4WrF) and send a screenshot in the bugs-report channel.\n\nHope you're having a great day! <3"
+    }
+   }
 }
