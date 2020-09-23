@@ -1,2 +1,51 @@
 {
+  "global": {
+    "yes": "oui",
+    "no": "non"
+  },
+  "events": {
+    "message": {
+      "wakingUp": "{{username}} est en train de se réveiller, veuillez patienter. <:tachiSmile:705085852417785856>",
+      "cooldown": "Vous devez attendre `{{cooldown}}` avant de pouvoir exécuter cette commande.",
+      "serverLevel": "ce serveur n'a pas le niveau requis pour que vous puissiez exécuter cette commande. (`Lvl.{{actualLevel}}/{{goal}}`)",
+      "insuficientPerms": "vous ne pouvez pas exécuter cette commande, vous devez être `{{name}}`",
+      
+      "commands": {
+        "boostbass": {},
+        "clear": {},
+        "credit": {},
+        "help": {},
+        "info": {},
+        "invite": {},
+        "join": {},
+        "leaderboard": {},
+        "leave": {},
+        "moveto": {},
+        "nowplaying": {},
+        "pause": {},
+        "ping": {},
+        "play": {},
+        "playnow": {},
+        "rank": {},
+        "queue": {},
+        "remove": {},
+        "repeat": {},
+        "replay": {},
+        "resume": {},
+        "seek": {},
+        "server-rank": {},
+        "settings": {},
+        "shard-infos": {},
+        "shuffle": {},
+        "skip": {},
+        "skipto": {},
+        "support": {},
+        "time": {},
+        "volume": {}
+      }
+    },
+    "guildCreate": {
+      "dm": "Salut ! <:remVV:705085852124053646>\nMerci de m'avoir ajouté sur **{{guildName}}**! Le bot n'est pas terminé, il y a beaucoup de fonctionnalités qui sont probablement buggées. Si vous rencontrez un bug, vous pouvez rejoindre le serveur de Bâtonnet (https://discord.gg/VGA4WrF) et envoyer une capture d'écran de l'erreur dans le salon bugs-report.\n\nEn espérant que vous passez une bonne journée ! <3"
+    }
+   }
 }
