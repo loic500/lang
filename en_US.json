@@ -1,4 +1,8 @@
 {
+  "global": {
+    "yes": "yes",
+    "no": "no"
+  },
   "events": {
     "message": {
       "wakingUp": "{{username}} is waking up, please wait. <:tachiSmile:705085852417785856>",
