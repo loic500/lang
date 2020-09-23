@@ -45,7 +45,7 @@
       }
     },
     "guildCreate": {
-      "dm": "Hi ! <:remVV:705085852124053646>\nThanks for adding me to **{{guildName}}**! The bot is not done, there is a lot of features that are probably bugged. If you see any bugs, you can join the support server (https://discord.gg/VGA4WrF) and send a screenshot in the bugs-report channel.\n\nHope you're having a great day! <3"
+      "dm": "Hi ! <:remVV:705085852124053646>\nThanks for adding me to **{{guildName}}**! The bot is not done, there are a lot of features that are probably bugged. If you see any bugs, you can join the support server (https://discord.gg/VGA4WrF) and send a screenshot in the bugs-report channel.\n\nHope you're having a great day! <3"
     }
    }
 }
