@@ -6,9 +6,9 @@
   "events": {
     "message": {
       "wakingUp": "{{username}} est en train de se réveiller, veuillez patienter. <:tachiSmile:705085852417785856>",
-      "cooldown": "Vous devez attendre `{{cooldown}}` avant de pouvoir exécuter cette commande.",
-      "serverLevel": "ce serveur n'a pas le niveau requis pour que vous puissiez exécuter cette commande. (`Lvl.{{actualLevel}}/{{goal}}`)",
-      "insuficientPerms": "vous ne pouvez pas exécuter cette commande, vous devez être `{{name}}`",
+      "cooldown": "Vous devez attendre encore `{{cooldown}}` avant de pouvoir exécuter cette commande.",
+      "serverLevel": "Ce serveur n'a pas le niveau requis pour que vous puissiez exécuter cette commande. (`Lvl.{{actualLevel}}/{{goal}}`)",
+      "insuficientPerms": "Vous ne pouvez pas exécuter cette commande, vous devez être `{{name}}`",
       
       "commands": {
         "boostbass": {},
